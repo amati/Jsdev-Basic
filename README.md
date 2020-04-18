@@ -1,2 +1,2 @@
 # Jsdev-Basic
-Js Development document for gitbook.io
+Js Development document for VuePress
